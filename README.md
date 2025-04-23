@@ -26,6 +26,11 @@
   </tr>
   <tr>
     <td>
+      <a href="https://github.com/ppohare26/clean-visualize-data.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppohare26&repo=clean-visualize-data&theme=gruvbox&bg_color=00000100&icon_color=2E86C1">
+      </a>
+    </td>
+    <td>
       <a href="https://github.com/ppohare26/intl-student-eval-model-anyLogic.git">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppohare26&repo=intl-student-eval-model-anyLogic&theme=gruvbox&bg_color=00000000&icon_color=2E86C1">
       </a>
@@ -54,10 +59,6 @@
 - **Statistical Analysis:** RStudio, Minitab  
 - **Project Management:** MS Project, Jira, Asana, Confluence  
 
-## 📬 <span style="color:#2980B9; font-size:24px;">Let's Connect</span>
-
-- 📧 **Email:** [ppohare24@gmail.com](mailto:ppohare24@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/prajakta-pohare](https://www.linkedin.com/in/prajakta-pohare/)
 
 ---
 
