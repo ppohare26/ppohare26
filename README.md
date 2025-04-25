@@ -31,6 +31,16 @@
       </a>
     </td>
     <td>
+      <a href="https://github.com/ppohare26/customer-data-viz.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppohare26&repo=customer-data-viz&theme=gruvbox&bg_color=00000100&icon_color=2E86C1">
+    </td>
+    <td>
+      <a href="https://github.com/ppohare26/dbc-student-perf.git">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppohare26&repo=dbc-student-perf&theme=gruvbox&bg_color=00000100&icon_color=2E86C1">
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/ppohare26/intl-student-eval-model-anyLogic.git">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppohare26&repo=intl-student-eval-model-anyLogic&theme=gruvbox&bg_color=00000000&icon_color=2E86C1">
       </a>
@@ -40,6 +50,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppohare26&repo=dmaic-inventory-control&theme=gruvbox&bg_color=00000000&icon_color=2E86C1">
       </a>
     </td>
+    
   </tr>
 </table>
 
