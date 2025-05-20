@@ -14,7 +14,7 @@
       </a>
     </td>
     <td>
-      <a href="[https://github.com/ppohare26/r-data-insights.git">
+      <a href="https://github.com/ppohare26/r-data-insights.git">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppohare26&repo=r-data-insights&theme=gruvbox&bg_color=00000100&icon_color=2E86C1">
       </a>
     </td>
