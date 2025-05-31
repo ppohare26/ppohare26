@@ -1,81 +1,69 @@
-# <span style="font-family:Segoe UI; font-size:36px; color:#2E86C1;">Prajakta Pohare</span>
+<!-- Profile README for Prajakta Pohare -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajakta-pohare/)
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ppohare24@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Me-0A66C2?style=for-the-badge&logo=portfolio&logoColor=white)](https://www.prajakta.me/)
+<h1 align="center">Hi there, I'm Prajakta Pohare! 👋</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/prajakta-pohare/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.prajakta.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%F0%9F%8C%90-brightgreen?style=flat-square" alt="Portfolio"/>
+  </a>
+</p>
+
 ---
 
-## 📚 <span style="color:#27AE60; font-size:24px;">My Projects</span>
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/ppohare26/18-weeks-of-python.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppohare26&repo=18-weeks-of-python&theme=gruvbox&bg_color=00000100&icon_color=2E86C1">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ppohare26/r-data-insights.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppohare26&repo=r-data-insights&theme=gruvbox&bg_color=00000100&icon_color=2E86C1">
-      </a>
-    </td>
-     <td>
-      <a href="https://github.com/ppohare26/sql-playground.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppohare26&repo=sql-playground&theme=gruvbox&bg_color=00000100&icon_color=2E86C1">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ppohare26/clean-visualize-data.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppohare26&repo=clean-visualize-data&theme=gruvbox&bg_color=00000100&icon_color=2E86C1">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ppohare26/customer-data-viz.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppohare26&repo=customer-data-viz&theme=gruvbox&bg_color=00000100&icon_color=2E86C1">
-    </td>
-    <td>
-      <a href="https://github.com/ppohare26/dbc-student-perf.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppohare26&repo=dbc-student-perf&theme=gruvbox&bg_color=00000100&icon_color=2E86C1">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ppohare26/intl-student-eval-model-anyLogic.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppohare26&repo=intl-student-eval-model-anyLogic&theme=gruvbox&bg_color=00000000&icon_color=2E86C1">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ppohare26/dmaic-inventory-control.git">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppohare26&repo=dmaic-inventory-control&theme=gruvbox&bg_color=00000000&icon_color=2E86C1">
-      </a>
-    </td>
-    
-  </tr>
-</table>
+🌟 **Welcome to my GitHub profile!**  
+I am a recent graduate with a Master’s in Technology Project Management from Illinois State University, blending 2.5 years of development and data analyst experience at Accenture with 1.5 years as a data analyst at ISU. My foundation in electronics and telecommunication engineering, paired with hands-on project and data work, makes me passionate about driving results at the intersection of technology and business.
 
-
-## 🛠 <span style="color:#AF7AC5; font-size:24px;">Skills & Technologies</span>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-F29111?style=flat-square&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-
-- **Programming & Scripting:** Python, R, SQL  
-- **Data Visualization:** Tableau, Power BI, Visual Studio Code  
-- **Data Wrangling:** Pandas, NumPy, Excel  
-- **Statistical Analysis:** RStudio, Minitab  
-- **Project Management:** MS Project, Jira, Asana, Confluence  
+I thrive in collaborative environments, transforming data-driven insights into actionable strategies and leading projects to successful completion. I’m actively seeking opportunities in project management or data analysis where I can bring value through my technical acumen, analytical mindset, and enthusiasm for continuous learning.
 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ppohare26&show_icons=true&theme=gruvbox&icon_color=F39C12)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ppohare26&layout=compact&theme=gruvbox)
+## 👩‍💻 About Me
+
+- 🎓 **Education:**  
+  &nbsp;&nbsp;&nbsp;• Master’s in Technology Project Management, Illinois State University (Graduated May 2025)  
+  &nbsp;&nbsp;&nbsp;• Bachelor’s in Electronics & Telecommunication Engineering, India (Graduated May 2020)
+
+- 💼 **Experience:**  
+  &nbsp;&nbsp;&nbsp;• Application Development Analyst at Accenture (2.5 years)  
+  &nbsp;&nbsp;&nbsp;• Data Analyst at Illinois State University (1.5 years)
+
+- 🛠️ **Tech Stack:**  
+  &nbsp;&nbsp;&nbsp;Python | R | SQL | Java | Power BI | Tableau
 
 ---
 
-> _“Turning data into actionable insights, one dataset at a time.”_
+## 🚀 Featured Projects
+
+<!-- This will auto-populate with your pinned repos or you can manually add highlights -->
+<p align="center">
+  <a href="https://github.com/ppohare26?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=ppohare26&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Prajakta's GitHub Stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ppohare26?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppohare26&layout=compact&theme=radical" alt="Top Languages"/>
+  </a>
+</p>
+
+Explore more projects 👉 [All my repositories](https://github.com/ppohare26?tab=repositories)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prajakta-pohare/"><img src="https://img.shields.io/badge/LinkedIn-Prajakta%20Pohare-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://www.prajakta.me/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-brightgreen?style=for-the-badge" alt="Portfolio"></a>
+  <a href="mailto:ppohare24@gmail.com"><img src="https://img.shields.io/badge/Gmail-Prajakta-red?logo=gmail&style=for-the-badge" alt="Gmail"></a>
+</p>
+
+---
+
+<p align="center">
+  Thanks for stopping by! Let's build something great together 🚀
+</p>
