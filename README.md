@@ -12,9 +12,7 @@
 ---
 
 🌟 **Welcome to my GitHub profile!**  
-I am a recent graduate with a Master's in Technology Project Management from Illinois State University, blending 2.5 years of development and data analyst experience at Accenture with 1.5 years as a data analyst at ISU. My foundation in electronics and telecommunication engineering, paired with hands-on project and data work, makes me passionate about driving results at the intersection of technology and business.
-
-I thrive in collaborative environments, transforming data-driven insights into actionable strategies and leading projects to successful completion. I'm actively seeking opportunities in project management or data analysis where I can bring value through my technical acumen, analytical mindset, and enthusiasm for continuous learning.
+I'm a Data Engineer at Diversified Services Network, currently supporting Caterpillar, where I design and build data solutions that drive real business outcomes. I bring a diverse background spanning 2.5 years as a development and data analyst at Accenture and 1.5 years as a data analyst at ISU, backed by a foundation in electronics and telecommunication engineering and a Master's in Technology Project Management, a combination that gives me both the technical depth and strategic mindset to deliver impactful results.
 
 ---
 
@@ -24,9 +22,10 @@ I thrive in collaborative environments, transforming data-driven insights into a
   &nbsp;&nbsp;&nbsp;• Master's in Technology Project Management, Illinois State University (Graduated May 2025)  
   &nbsp;&nbsp;&nbsp;• Bachelor's in Electronics & Telecommunication Engineering, India (Graduated May 2020)
 
-- 💼 **Experience:**  
-  &nbsp;&nbsp;&nbsp;• Application Development Analyst at Accenture (2.5 years)  
-  &nbsp;&nbsp;&nbsp;• Data Analyst at Illinois State University (1.5 years)
+- 💼 **Experience:**<br>
+  &nbsp;&nbsp;&nbsp;• Data Engineer at Diversified Services Network for Caterpillar<br>
+  &nbsp;&nbsp;&nbsp;• Data Analyst at Illinois State University (1.5 years)<br>
+  &nbsp;&nbsp;&nbsp;• Application Development Analyst at Accenture (2.5 years)
 
 - 🛠️ **Tech Stack:**  
   &nbsp;&nbsp;&nbsp;Python | R | SQL | Java | Power BI | Tableau
